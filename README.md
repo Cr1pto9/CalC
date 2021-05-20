@@ -10,7 +10,7 @@ git clone https://github.com/Cr1pto9/CalC
 
 cd Calc
 
-chmod +x install.sh
+chmod +x Install.sh
 
 bash install.sh
 
