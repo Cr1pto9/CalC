@@ -12,6 +12,6 @@ cd Calc
 
 chmod +x Install.sh
 
-bash install.sh
+bash Install.sh
 
 python Calc.py
