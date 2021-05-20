@@ -7,6 +7,7 @@ apt update && apt upgrade -y
 pkg install git -y
 
 git clone https://github.com/Cr1pto9/CalC
+
 cd Calc
 
 chmod +x install.sh
